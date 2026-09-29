@@ -1,0 +1,2 @@
+# ffxi-autows
+Auto WS
