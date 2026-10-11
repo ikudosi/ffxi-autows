@@ -10,7 +10,7 @@ local WS_THRESHOLD = 1000
 local AM3_WS_NAME = nil
 local AM3_TP_THRESHOLD = 3000
 local last_ws = 0
-local WS_RETRY_DELAY = 0.75
+local WS_RETRY_DELAY = 2
 
 local function try_weapon_skill()
     if not enabled then
